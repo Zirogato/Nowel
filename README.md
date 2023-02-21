@@ -1,2 +1,0 @@
-# Nowel
-Nowel Dofus Theme
